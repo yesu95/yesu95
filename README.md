@@ -1,14 +1,17 @@
-### 👋 Hola
+### Ojo piojo 👁️👄👁️
 
-Soy Jesús Franco, desarrollador web y técnico de sistemas microinformáticos y redes.
+Soy Jesús y a veces hago webs.
 
-Trabajo principalmente como desarrollador frontend y con WordPress, con interés en el diseño web. Aquí subo proyectos, pruebas y cosas con las que ando aprendiendo.
+Trabajo sobre todo de frontend y con WordPress, y me gusta el diseño web, criticarlo sobre todo.
 
-### 🏅 Skills
+Aquí subo proyectos, pruebas y experimentos a medio acabar. Si algo funciona, fue a propósito. Si no, espera que todavía lo tengo que arreglar.
 
-HTML + CSS / JavaScript / GSAP / WordPress 
+### Skills 🏅
 
-####
+- **HTML + CSS**: centro divs a la primera (mentira, a la quinta)((mentira, se lo pregunto a la IA))
+- **JavaScript**: lo justo para romper cosas con estilo
+- **GSAP**: porque una web sin animaciones es como una cerveza sin espuma
+- **WordPress, Shopify**: Es que las tiendas tienen que ser así
 
 👤 <a href="https://www.linkedin.com/in/jesusfrancohueso">LinkedIn</a>
 
