@@ -6,7 +6,7 @@ Trabajo principalmente como desarrollador frontend y con WordPress, con interés
 
 ### 🏅 Skills
 
-HTML + CSS / JavaScript / GSAP / WordPress / Adobe Photoshop
+HTML + CSS / JavaScript / GSAP / WordPress 
 
 ####
 
